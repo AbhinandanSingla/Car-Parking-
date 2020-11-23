@@ -9,7 +9,7 @@
 <img alt = 'loading ' src='https://github.com/AbhinandanSingla/Car-Parking-/blob/main/images/admin.png' height = '300'>
 
 ##### Add Vehicle Page
-<img alt = 'loading ' src='https://github.com/AbhinandanSingla/Car-Parking-/blob/main/images/addvehicle.png' height = '300'>
+<img alt = 'loading ' src='https://github.com/AbhinandanSingla/Car-Parking-/blob/main/images/addVehicle.png' height = '300'>
 
 ##### Bill page
 <img alt = 'loading ' src='https://github.com/AbhinandanSingla/Car-Parking-/blob/main/images/bill.png' height = '300'>
