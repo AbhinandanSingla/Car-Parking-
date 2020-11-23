@@ -10,13 +10,18 @@
 
 ##### Add Vehicle Page
 <img alt = 'loading ' src='https://github.com/AbhinandanSingla/Car-Parking-/blob/main/images/addvehicle.png' height = '300'>
+
 ##### Bill page
 <img alt = 'loading ' src='https://github.com/AbhinandanSingla/Car-Parking-/blob/main/images/bill.png' height = '300'>
+
 ##### vehicle Type Page
 <img alt = 'loading ' src='https://github.com/AbhinandanSingla/Car-Parking-/blob/main/images/vehicleType.png' height = '300'>
+
 ##### Employee Login Page
 <img alt = 'loading ' src='https://github.com/AbhinandanSingla/Car-Parking-/blob/main/images/employeeLogin.png' height = '300'>
+
 ##### Add Employees Page
 <img alt = 'loading ' src='https://github.com/AbhinandanSingla/Car-Parking-/blob/main/images/addEmployee.png' height = '300'>
+
 ##### Add Edit Vehicle Page
 <img alt = 'loading ' src='https://github.com/AbhinandanSingla/Car-Parking-/blob/main/images/editVehicle.png' height = '300'>
